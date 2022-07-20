@@ -304,5 +304,6 @@
     <Build Include="ExtendedProperties_37.sql" />
     <Build Include="ExtendedProperties_38.sql" />
     <Build Include="ExtendedProperties_39.sql" />
+    <Build Include="Stored Procedures\Procedure1.sql" />
   </ItemGroup>
 </Project>
